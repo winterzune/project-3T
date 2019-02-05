@@ -1,0 +1,26 @@
+{
+  "name": "project-3t",
+  "version": "1.0.0",
+  "description": "testing for project 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winterzune/project-3T.git"
+  },
+  "author": "wint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winterzune/project-3T/issues"
+  },
+  "homepage": "https://github.com/winterzune/project-3T#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-router-dom": "^4.3.1"
+  }
+}
